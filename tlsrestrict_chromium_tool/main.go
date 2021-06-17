@@ -5,7 +5,7 @@ import (
 	"io/ioutil"
 	"log"
 
-	"github.com/namecoin/ncdns/tlsrestrictchromium"
+	"github.com/namecoin/tlsrestrictchromium"
 	"gopkg.in/hlandau/easyconfig.v1"
 	"gopkg.in/hlandau/easyconfig.v1/cflag"
 )
